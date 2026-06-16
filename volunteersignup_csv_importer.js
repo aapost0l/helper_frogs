@@ -496,7 +496,7 @@
     css.textContent = `
       #vsi-open {
         position: fixed;
-        right: 20px;
+        left: 50%;
         bottom: 20px;
         z-index: 999999;
         padding: 10px 14px;
